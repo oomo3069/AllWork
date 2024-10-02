@@ -1,0 +1,125 @@
+.contianer{
+    display: inline-block;
+    
+}
+.barbox{
+    display: inline-block;
+    background-color: rgb(48, 172, 255);
+    width: 300px;
+    height: 950px;
+    float: left;
+}
+.barbox h1{
+    text-align: center;
+}
+.barbox p{
+    text-align: left;
+}
+
+.nevbar{
+    
+    border: 2px inset black;
+    width: 1550px;
+    height: 50px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.searchbox{
+    float: left;
+    width: 300px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+
+.noti1{
+    float: right;
+    border-radius: 35px;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+.noti2{
+    float: right;
+    border-radius: 35px;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-right: 55px;
+    border: 1px solid black;
+}
+.noti3{
+    float: right;
+    border-radius: 35px;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+
+.db{
+    width: 100px;
+    height: 100px;
+}
+
+.block1{
+    float: left;
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+.block2{
+    float: left;
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    margin-left: 15px;
+}
+.block3{
+    float: left;
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    margin-left: 15px;
+}
+.block4{
+    float: left;
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    margin-left: 15px;
+}
+
+.graph{
+    float: left;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.graph1{
+    float: left;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+
+.foot{
+    float: left;
+    width: 1500px;
+    height: 500px;
+}
