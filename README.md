@@ -11,4 +11,4 @@
 • Database (MongoDB or MySQL)
 • REST (Representational State Tranfer)
 • Authentication & Security
-• React.js
+
